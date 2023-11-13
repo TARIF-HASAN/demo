@@ -4,4 +4,5 @@ This is a readme file.
 My name is Tarif.
 
 
-hello
+## Local Development
+1. Open index.html in your browser.
